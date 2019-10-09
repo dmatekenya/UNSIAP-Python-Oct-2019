@@ -10,11 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="data_utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile_data/data_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="1656">
               <caret line="1057" column="72" lean-forward="false" selection-start-line="1057" selection-start-column="72" selection-end-line="1057" selection-end-column="72" />
               <folding>
                 <element signature="e#352#361#0" expanded="true" />
@@ -32,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="d5_exercise.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="d5_exercise.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile_data/d5_exercise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2543">
-              <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="18">
+              <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="42" />
               <folding>
                 <element signature="e#1647#2682#0" expanded="false" />
                 <element signature="e#2704#7008#0" expanded="false" />
@@ -47,10 +47,54 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobile_data/tmp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding>
+                <element signature="e#217#595#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="d1_exercise.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day1/d1_exercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="d2_exercise.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day2/d2_exercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+              <folding>
+                <element signature="e#1569#1970#1" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="d2_grader.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day2/d2_grader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2034">
+              <caret line="98" column="48" lean-forward="false" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="d5_solutions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile_data/d5_solutions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state relative-caret-position="1926">
               <caret line="510" column="45" lean-forward="false" selection-start-line="510" selection-start-column="45" selection-end-line="510" selection-end-column="45" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -67,7 +111,7 @@
       <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile_data/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="54">
               <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -103,10 +147,11 @@
         <option value="$PROJECT_DIR$/mobile_data/d5_solutions2.py" />
         <option value="$PROJECT_DIR$/mobile_data/d5_exercise.py" />
         <option value="$PROJECT_DIR$/mobile_data/d5_solutions.py" />
+        <option value="$PROJECT_DIR$/mobile_data/tmp.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -125,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,20 +177,17 @@
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mobile_data" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -252,10 +293,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="800" height="600" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1024" height="768" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0051347883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20638086" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31309298" sideWeight="0.19383825" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31309298" sideWeight="0.80616176" order="2" side_tool="false" content_ui="tabs" />
@@ -369,13 +409,68 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mobile_data/data_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19026">
+          <caret line="1057" column="72" lean-forward="false" selection-start-line="1057" selection-start-column="72" selection-end-line="1057" selection-end-column="72" />
+          <folding>
+            <element signature="e#352#361#0" expanded="true" />
+            <element signature="e#1345#19295#0" expanded="false" />
+            <element signature="e#9787#10247#0" expanded="true" />
+            <element signature="e#11124#12090#0" expanded="true" />
+            <element signature="e#12145#14773#0" expanded="true" />
+            <element signature="e#19319#22892#0" expanded="false" />
+            <element signature="e#22911#23958#0" expanded="false" />
+            <element signature="e#23509#23744#0" expanded="true" />
+            <element signature="e#23793#23958#0" expanded="true" />
+            <element signature="e#23988#28300#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_data/d5_solutions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1926">
+          <caret line="510" column="45" lean-forward="false" selection-start-line="510" selection-start-column="45" selection-end-line="510" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#411#1446#0" expanded="false" />
+            <element signature="e#1468#5772#0" expanded="false" />
+            <element signature="e#12983#13012#0" expanded="true" />
+            <element signature="e#16581#18275#0" expanded="true" />
+            <element signature="e#20649#21296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_data/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_data/d5_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="42" />
+          <folding>
+            <element signature="e#1647#2682#0" expanded="false" />
+            <element signature="e#2704#7008#0" expanded="false" />
+            <element signature="e#14454#14717#0" expanded="true" />
+            <element signature="e#17537#20312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day2/d2_grader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#5132#7433#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -383,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
           <caret line="66" column="28" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -393,7 +487,6 @@
           <caret line="189" column="78" lean-forward="true" selection-start-line="189" selection-start-column="78" selection-end-line="189" selection-end-column="78" />
           <folding>
             <element signature="e#1569#1970#1" expanded="false" />
-            <element signature="e#5911#6721#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -413,13 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day1/d1_exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day1/d1_solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
@@ -427,33 +513,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day2/d2_exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
-          <folding>
-            <element signature="e#1569#1970#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day2/d2_solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#1536#2175#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day2/d2_grader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="98" column="48" lean-forward="false" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
-          <folding>
-            <element signature="e#5132#7433#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -470,17 +533,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile_data/data_processor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1057">
-          <caret line="371" column="45" lean-forward="false" selection-start-line="371" selection-start-column="31" selection-end-line="371" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_data/data_processor.py" />
     <entry file="file://$PROJECT_DIR$/mobile_data/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="54">
           <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -490,7 +546,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile_data/data_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="1656">
           <caret line="1057" column="72" lean-forward="false" selection-start-line="1057" selection-start-column="72" selection-end-line="1057" selection-end-column="72" />
           <folding>
             <element signature="e#352#361#0" expanded="true" />
@@ -509,7 +565,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile_data/d5_solutions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="1926">
           <caret line="510" column="45" lean-forward="false" selection-start-line="510" selection-start-column="45" selection-end-line="510" selection-end-column="45" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -524,14 +580,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile_data/d5_exercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2543">
-          <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="18">
+          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="e#1647#2682#0" expanded="false" />
             <element signature="e#2704#7008#0" expanded="false" />
             <element signature="e#14454#14717#0" expanded="true" />
             <element signature="e#17537#20312#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile_data/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#217#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/d1_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/d2_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <folding>
+            <element signature="e#1569#1970#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/d2_grader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="98" column="48" lean-forward="false" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
