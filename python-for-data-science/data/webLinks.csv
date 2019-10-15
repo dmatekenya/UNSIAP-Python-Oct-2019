@@ -1,0 +1,86 @@
+﻿Number ,DMF Country name,Country Code,MTDS Published,Year published,DMS period ,Link,alternativeRootUrl,Debt reports published Y/N,Period ,Frequency 
+1,Afghanistan,AFG,NO,,,,,NO,,
+2,Angola,AGO,NO,,,,,NO,,
+3,Armenia,ARM,YES,2018,2019-2021,http://www.minfin.am/en/page/reports_and_statistics1/,,YES,,Annually and Quarterly
+4,Azerbaijan,AZE,YES,2018,2018-2025,,,NO,,
+5,Bangladesh,BGD,NO,,,,,NO,,
+6,Benin,BEN,YES,2017,2017-2021,http://www.caabenin.net/index.php/publications/bulletins-statistiques,,YES,,Quarterly
+7,Bhutan,BTN,NO,,,,,NO,,
+8,Bolivia,BOL,NO,,,,,NO,,
+9,Bosnia and Herzegovina,BIH,YES,2018,2018-2020,http://www.fmf.gov.ba/v2/stranica.php?idstranica=161&idmeni=17,,YES,,Quarterly
+10,Burkina Faso,BFA,NO,2015,2015-2017,,,NO,,
+11,Burundi,BDI,NO,,,,,NO,,
+12,Cambodia,KHM,YES,2015,2015-2018,https://gdicdm.mef.gov.kh/en/cat/documents-and-publications/bulletins,,YES,,Quarterly
+13,Cameroon,CMR,NO,,,,,NO,,
+14,Cape Verde,CPV,NO,,,,,NO,,
+15,Central African Republic,CAF,NO,,,,,NO,,
+16,Chad,TCD,NO,,,,,NO,,
+17,Comoros,COM,NO,2016?,,,,NO,,
+18,"Congo, Dem. Rep.",ZAR,NO,,,,,NO,,
+19,"Congo, Rep.",COG,NO,,,,,NO,,
+20,Côte d'Ivoire,CIV,NO,,,,,NO,,
+21,Djibouti,DJI,NO,,,,,NO,,
+22,Dominica,DMA,NO,,,,,NO,,
+23,Eritrea,ERI,NO,,,,,NO,,
+24,Ethiopia,ETH,YES,2019,2016-2020,http://www.mofed.gov.et/web/guest/debt-management-directorates,,YES,,Quarterly
+25,"Gambia, The",GMB,YES,2017,2017-2020,http://www.mofea.gm/directorates/loans-and-debt-management,,NO,,Annually
+26,Georgia,GEO,NO,,,https://www.mof.ge/en/4419,,YES,,Annually+Monthly
+27,Ghana,GHA,YES,2017,2017-2020,https://www.mofep.gov.gh/reports/2019-04-01/annual-public-debt-report-2018,,YES,,Annually
+28,Grenada,GRD,YES,2017,2018-2020,https://www.finance.gd/index.php/2014-05-06-18-20-13/debt-management-unit,,YES,,Quarterly
+29,Guinea,GIN,NO,,,,,NO,,
+30,Guinea-Bissau,GNB,NO,,,,,NO,,
+31,Guyana,GUY,NO,,,,,NO,,
+32,Haiti,HTI,NO,,,,,NO,,
+33,Honduras,HND,YES,2018,2018-2022,http://www.sefin.gob.hn/informes/,,YES,,Quarterly
+34,India,IND,YES,2015,2015-2018,https://dea.gov.in/public-debt-management,,YES,,Annually+Quaterly
+35,Kenya,KEN,YES,2018,2018-2021,http://www.treasury.go.ke/publications/pdmo.html,,YES,,Annually+ Monthly
+36,Kiribati,KIR,NO,,,,,NO,,
+37,Kosovo,KVO,YES,2018,2019-2021,"https://mf.rks-gov.net/page.aspx?id=2,44",,YES,,Annually+Quaterly
+38,Kyrgyz Republic,KGZ,YES,2018,2018-2020,http://www.minfin.gov.kg/ru/novosti/mamlekettik-karyz/gosudarstvennyy-dolg.html,,YES,,Monthly
+39,Lao PDR,LAO,NO,,,,,NO,,
+40,Lesotho,LSO,YES,2018,2018-2022,http://www.finance.gov.ls/official_documents.php?id=debt_documents,,YES,,Annually
+41,Liberia,LBR,NO,,,https://www.mfdp.gov.lr/index.php/documents/reports/annual-reports,,YES,,Annually
+42,Madagascar,MDG,YES,2018,2019-2021,http://www.tresorpublic.mg/?page_id=214&content=temp&type=bsd,,YES,,Quarterly
+43,Malawi,MWI,,,,http://www.finance.gov.mw/index.php/blog/documents/debt-aid,,,,
+44,Maldives,MDV,,,,http://www.finance.gov.mv/public/attachments/SWvBT0caRN55FI3eINLpII2lG6GEfeQb24jKW7Qn.pdf,,,,
+45,Mali,MLI,,,,,,,,
+46,Marshall Islands,MHL,,,,,,,,
+47,Mauritania,MRT,,,,,,,,
+48,"Micronesia, Fed. Sts.",FSM,,,,,,,,
+49,Moldova,MDA,,,,http://mf.gov.md/en/datoria-sectorului-public/rapoarte/datoria-de-stat,,,,
+50,Mongolia,MNG,,,,,,,,
+51,Mozambique,MOZ,,,,,,,,
+52,Myanmar,MMR,,,,,,,,
+53,Nepal,NPL,,,,http://www.mof.gov.np/en/macroeconomic/,,,,
+54,Nicaragua,NIC,,,,,,,,
+55,Niger,NER,,,,,,,,
+56,Nigeria,NGA,,,,https://www.dmo.gov.ng/debt-profile/total-public-debts,,,,
+57,Pakistan,PAK,,,,http://www.finance.gov.pk/publications/DPS_2018_19.pdf,,,,
+58,Papua New Guinea,PNG,,,,https://www.treasury.gov.pg/html/public_debt/public_debt.html,,,,
+59,Rwanda,RWA,,,,http://www.minecofin.gov.rw/index.php?id=65,,,,
+60,Samoa,WSM,,,,https://www.mof.gov.ws/Services/AidCoordinationDebtManagement/QuarterlyDebtBulletin/tabid/8822/Default.aspx,,,,
+61,São Tomé and Principe,STP,,,,,,,,
+62,Senegal,SEN,,,,,,,,
+63,Sierra Leone,SLE,,,,,,,,
+64,Solomon Islands,SLB,,,,http://www.mof.gov.sb/ReportsNew/Publicationsdebthistory.aspx,,,,
+65,Somalia,SOM,,,,,,,,
+66,South Sudan,SSD,,,,,,,,
+67,Sri Lanka,LKA,,,,http://www.treasury.gov.lk/documents/10181/12882/Mid+Year+Fiscal+Position+Report_ENG_June302019.pdf/2e17b29c-4c3d-4615-afe9-4d9431ba36a5,,,,
+68,St. Lucia,LCA,,,,,,,,
+69,St. Vincent and the Grenadines,VCT,,,,,,,,
+70,Sudan,SDN,,,,,,,,
+71,Tajikistan,TJK,,,,http://minfin.tj/index.php?do=static&page=gosdolg,,,,
+72,Tanzania,TZA,,,,,,,,
+73,Timor-Leste,TMP,,,,,,,,
+74,Togo,TGO,,,,,,,,
+75,Tonga,TON,,,,"http://www.finance.gov.to/quaterly-debt-bulletin,
+http://www.finance.gov.to/annual-public-debt-bulletin",,,,
+76,Tuvalu,TUV,,,,,,,,
+77,Uganda,UGA,,,,https://www.finance.go.ug/Reports,,,,
+78,Uzbekistan,UZB,,,,https://www.mf.uz/media/GDDS/pdf/Public_External_Debt.pdf,,,,
+79,Vanuatu,VUT,,,,https://doft.gov.vu/images/2019/October-Monthly-Report.pdf,,,,
+80,Vietnam,VNM,,,,,,,,
+81,West Bank and Gaza,WESTBANK,,,,,,,,
+82,"Yemen, Rep.",YEM,,,,,,,,
+83,Zambia,ZMB,,,,http://www.mof.gov.zm/public-debt-reports/,,,,
+84,Zimbabwe,ZWE,,,,,,,,
